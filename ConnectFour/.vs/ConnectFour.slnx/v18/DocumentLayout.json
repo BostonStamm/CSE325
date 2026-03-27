@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|c:\\users\\boston\\desktop\\github repos\\cse325\\connectfour\\components\\board.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|solutionrelative:components\\board.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|c:\\users\\boston\\desktop\\github repos\\cse325\\connectfour\\components\\board.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|solutionrelative:components\\board.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|c:\\users\\boston\\desktop\\github repos\\cse325\\connectfour\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|c:\\users\\boston\\desktop\\github repos\\cse325\\connectfour\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|c:\\users\\boston\\desktop\\github repos\\cse325\\connectfour\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|c:\\users\\boston\\desktop\\github repos\\cse325\\connectfour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|c:\\users\\boston\\desktop\\github repos\\cse325\\connectfour\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FC8F47C-CC65-4B8A-AD8F-3B7795E924B5}|ConnectFour.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T07:22:33.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T07:00:34.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAmwLQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:57:44.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.razor.css",
+              "DocumentMoniker": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Components\\Board.razor.css",
+              "RelativeDocumentMoniker": "Components\\Board.razor.css",
+              "ToolTip": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Components\\Board.razor.css",
+              "RelativeToolTip": "Components\\Board.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-13T06:49:53.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:43:32.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.razor",
+              "DocumentMoniker": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Components\\Board.razor",
+              "RelativeDocumentMoniker": "Components\\Board.razor",
+              "ToolTip": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Components\\Board.razor",
+              "RelativeToolTip": "Components\\Board.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:41:36.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Boston\\Desktop\\Github Repos\\CSE325\\ConnectFour\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T06:31:53.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
